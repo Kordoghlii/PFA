@@ -1,0 +1,10 @@
+{
+    "files_exist": 1,
+    "files_valid": 1,
+    "has_tests": 0,
+    "tests_valid": 0,
+    "fully_documented": 1,
+    "all_functions_commented": 1,
+    "docstrings_accurate": 0.0,
+    "comments_accurate": 0.9
+}
